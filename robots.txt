@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cm67rh.yoursingles.online/sitemap.xml
